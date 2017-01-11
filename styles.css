@@ -1,3 +1,4 @@
+
 /*! normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css */
 
 /* Document
@@ -561,4 +562,8 @@ ul .authors img{
   border: none;
   display: inline-block;
   max-height: 29px;
+
+body{
+  background-color: none;
+
 }
